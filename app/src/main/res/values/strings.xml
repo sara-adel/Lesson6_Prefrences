@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson6_Prefrences</string>
+
+    <string name="pref_color_red_value" translatable="false">red</string>
+    <string name="pref_color_blue_value" translatable="false">blue</string>
+    <string name="pref_color_green_value" translatable="false">green</string>
+</resources>
